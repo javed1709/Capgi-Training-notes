@@ -17,4 +17,3 @@ print(customer.values()) #list [] of values returned
 # modify the value
 customer["name"]="Javed"
 print(customer.get("name"))
-

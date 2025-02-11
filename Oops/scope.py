@@ -3,7 +3,7 @@ class Employee:
         print("I am a default init method")
     
     def __init__(self,name):
-        self.name=name #self.name will beocme the class variable
+        self.name=name #self.name will become the class variable
         print(f"I am a init method with name parameter {name}")
 
     def demomethod(self):

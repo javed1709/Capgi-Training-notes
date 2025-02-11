@@ -1,5 +1,6 @@
 # import moduleoperations as cal
-from moduleoperations import add,sub
+from moduleoperations import * # import all
+from moduleoperations import add,sub # importing specific functions
 
 def compute(x):
     a=int(input("Enter the value"))

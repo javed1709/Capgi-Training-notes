@@ -21,3 +21,4 @@ class Child(Father):
 
 c=Child()
 c.show()
+c.myAbstractMethod()

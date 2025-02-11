@@ -12,4 +12,4 @@ Admin.Common.footer.admin_common_footer()
 
 print(isinstance(Admin.service.admin_service(), type(Admin.service.admin_service())))
 
-# should we create init in every folder?
+# should we create init in every folder? yes
